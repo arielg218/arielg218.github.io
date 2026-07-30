@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Ariel M. Gordon # the website title (if blank, full name will be used instead)
 first_name: Ariel
 middle_name: M.
 last_name: Gordon
@@ -217,6 +217,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  # Default excludes
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
@@ -238,6 +239,13 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  # Ariel's exclues
+  - _pages/blog.md
+  - _pages/cv.md
+  - _pages/repositories.md
+  - _pages/teaching.md
+  - _pages/profiles.md
+  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
