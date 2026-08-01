@@ -30,6 +30,6 @@ I study the psychological effects of interacting with people, places, and things
 
 <div class="social">
   <div class="contact-icons">
-    {% social %}
+    {% jekyll-socials %}
   </div>
 </div>
