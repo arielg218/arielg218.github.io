@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ariel Gordon # the website title (if blank, full name will be used instead)
-first_name: **Ariel**
+title: # the website title (if blank, full name will be used instead)
+first_name: Ariel
 middle_name:
 last_name: Gordon
 contact_note: "" # Note about the best way to reach you, plaintext under all the icons at the bottom
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Ariel Gordon's academic portfolio website.
 footer_text: >
   Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://github.com/alshedivat/al-folio">al-folio</a> .
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
