@@ -11,7 +11,7 @@ profile:
   more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -24,6 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Ariel, and I'm a PhD candidate in the [Virtual Human Interaction Lab] (https://vhil.stanford.edu/) at Stanford University, advised by [Jeremy Bailenson](https://profiles.stanford.edu/jeremy-bailenson). 
+Hi! I am a PhD candidate in the [Virtual Human Interaction Lab](https://vhil.stanford.edu/) at Stanford University, advised by [Jeremy Bailenson](https://profiles.stanford.edu/jeremy-bailenson). 
 
 I study the psychological effects of interacting with people, places, and things in virtual and mixed reality.
+
+Previously, I studied Cognitive Science and Psychology (Minor: Data Science) at Northwestern University, then worked as a clinical research coordinator at [Neuroscape](https://neuroscape.ucsf.edu/) @ the University of California, San Francisco.
