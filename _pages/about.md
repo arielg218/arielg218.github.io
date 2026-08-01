@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am a PhD candidate in the [Virtual Human Interaction Lab](https://vhil.stanford.edu/) at Stanford University, advised by [Jeremy Bailenson](https://profiles.stanford.edu/jeremy-bailenson). 
+Hi! I'm Arie, and I'm a PhD candidate in the [Virtual Human Interaction Lab](https://vhil.stanford.edu/) at Stanford University, advised by [Jeremy Bailenson](https://profiles.stanford.edu/jeremy-bailenson). I'm interested in studying the psychological effects of interacting with people, places, and things in virtual and mixed reality.
 
-I study the psychological effects of interacting with people, places, and things in virtual and mixed reality.
-
-Previously, I studied Cognitive Science and Psychology (Minor: Data Science) at Northwestern University, then worked as a clinical research coordinator at [Neuroscape](https://neuroscape.ucsf.edu/) @ the University of California, San Francisco.
+Previously, I studied Cognitive Science and Psychology at Northwestern University, and researched digital therapeutics at [Neuroscape](https://neuroscape.ucsf.edu/) at the University of California, San Francisco.
