@@ -1,13 +1,13 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: ariel.gordon@stanford.edu # your email address
+linkedin_username: ariel-gordon-9548501a1
+scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+github_username: arielg218
 cv_pdf: https://docs.google.com/document/d/1vdu3x9JPaQQg0HNEhhq_hKfVlxuAdLCCb1pwxrbB0Tc/edit?tab=t.0 # path to your CV PDF file
-# email: you@example.com # your email address
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-linkedin_username: ariel-gordon-9548501a1
-github_username: arielg218
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin

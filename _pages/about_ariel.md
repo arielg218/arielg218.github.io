@@ -1,1 +1,0 @@
-Hi! I'm Ariel, and I study how people interact with people, places, and things in virtual and mixed reality.
